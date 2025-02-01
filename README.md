@@ -80,5 +80,5 @@ Predicted stock price for TSLA: 712.35
 This project is open-source and can be modified freely.
 
 ## Author
--Dixansh
+  Dixansh
 
